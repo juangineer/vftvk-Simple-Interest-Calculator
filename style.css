@@ -1,4 +1,7 @@
-body {background-color:tan;}
-h1{color:green;}
-
-
+body {background-color:black; border-top: 10px; border-bottom: 10px; font-family: sans-serif; font-weight: bold;}
+button {font-family: sans-serif; border-radius: 5px;}
+div {margin: 10px 50px;}
+h1{color:grey;font-size: xx-large; margin: 25px 25px;}
+section {background-color: white; border-radius: 25px; margin: 5px 25px 50px 25px;}
+p {margin: 10px 25px 50px 25px;}
+.slider { border-radius: 50%;}
